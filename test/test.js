@@ -1,5 +1,5 @@
 'use strict';
-var extract = require("../index.js");
+var extract = require("../src/index.js");
 
 console.log("Testing extraction on a basic sentence");
 console.log("--------------------------------------");
