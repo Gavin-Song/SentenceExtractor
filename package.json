@@ -1,0 +1,29 @@
+{
+  "name": "sentence-extractor",
+  "version": "1.0.5",
+  "description": "A JS script to extract sentences from a piece of text (Advanced checking)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavin-Song/SentenceExtractor.git"
+  },
+  "keywords": [
+    "sentence",
+    "text",
+    "extract",
+    "word",
+    "parse"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "author": "Gavin Song",
+  "license": " \tAGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Gavin-Song/SentenceExtractor/issues"
+  },
+  "homepage": "https://github.com/Gavin-Song/SentenceExtractor#readme"
+}
