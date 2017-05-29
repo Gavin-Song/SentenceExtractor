@@ -2,7 +2,6 @@
   "name": "sentence-extractor",
   "version": "1.0.5",
   "description": "A JS script to extract sentences from a piece of text (Advanced checking)",
-  "main": "index.js",
   "scripts": {
     "test": "node ./test/test.js"
   },
